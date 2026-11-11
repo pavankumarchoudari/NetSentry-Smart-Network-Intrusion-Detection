@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="docs/app-screenshot.png" alt="GSA-DT Network Intrusion Detection app" width="900">
+
 
 </div>
 
