@@ -138,7 +138,7 @@ The backbone (GCN + attention) is trained with **cross-entropy loss** for **10 e
 ```bash
 # 1. Clone
 git clone https://github.com/pavankumarchoudari/NetSentry-Smart-Network-Intrusion-Detection.git
-cd <your-repo>
+cd NetSentry-Smart-Network-Intrusion-Detection
 
 # 2. Install
 pip install -r requirements.txt
